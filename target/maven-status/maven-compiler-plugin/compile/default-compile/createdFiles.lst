@@ -1,2 +1,7 @@
 com\launchacademy\petadoption\controllers\HomeController.class
+com\launchacademy\petadoption\models\Pet.class
+com\launchacademy\petadoption\models\PetType.class
+com\launchacademy\petadoption\repositories\PetRepository.class
+com\launchacademy\petadoption\repositories\PetTypeRepository.class
+com\launchacademy\petadoption\seeders\PetSeeder.class
 com\launchacademy\PetAdoptionsApplication.class

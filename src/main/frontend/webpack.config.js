@@ -5,7 +5,7 @@ var config = {
     path: "./client/main.js"
   },
   output: {
-    path: __dirname + "../../resources/static",
+    path: __dirname + "../../client/public",
     filename: "bundle.js"
   },
   module: {
